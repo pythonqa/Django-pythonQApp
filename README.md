@@ -7,4 +7,5 @@ functioning on the web today.Important thing is we learn the workflow of web dev
 
 
 How to fork this repo:
-In order to work,this repo needs have python and pienv installed.
+
+In order to work,this repo needs have python3 and pipenv installed.
