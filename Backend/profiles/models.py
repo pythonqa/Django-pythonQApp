@@ -14,6 +14,8 @@ class User(AbstractBaseUser):
     '''
     pass
 
+    objects = managers.UserManager()
+    #Custom UserManager to be used with our User model
 
 class Profile(models.Model):
     '''
