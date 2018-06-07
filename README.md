@@ -14,7 +14,7 @@ Pipenv will take care for all dependencies.
 
 # TODO
 Currently our app has one module in it called profiles.
-<ul>Staff that need to be added:
+<ul>Stuff that need to be added:
   <li>User model extended from the AbstractBaseUser</li>
   <li>User must have required an unique email field</li>
   <li>User must have created_date timestamp</li>
