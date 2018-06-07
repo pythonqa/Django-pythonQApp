@@ -8,6 +8,9 @@ functioning on the web today.Important thing is we learn the workflow of web dev
 # Requirements:
 You need have installed python 3 and pipenv, 
 a text editor and a free will to learn.
+After cloning our repo to your local machine cd into repo and 
+pipenv install and pipenv shell.
+Pipenv will take care for all dependencies.
 
 # TODO
 Currently our app has one module in it called profiles.
